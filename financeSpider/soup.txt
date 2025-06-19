@@ -1,0 +1,509 @@
+<html lang="zh-CN">
+ <head>
+  <script crossorigin="" src="https://static.wscn.net/wscn/wallstreetcn.com/assets/polyfills-Bj4V6t0x.js" type="module">
+  </script>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="https://static.wscn.net/wscn/_static/favicon.png" rel="icon"/>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-4VH50R2B8W">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || []
+    function gtag() {
+      dataLayer.push(arguments)
+    }
+    gtag('js', new Date())
+    gtag('config', 'G-4VH50R2B8W')
+  </script>
+  <script crossorigin="" src="https://static.wscn.net/wscn/wallstreetcn.com/assets/index-CiOh4o-Y.js" type="module">
+  </script>
+  <link crossorigin="" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/style-CKVDC_62.css" rel="stylesheet"/>
+  <script type="module">
+   import.meta.url;import("_").catch(()=>1);(async function*(){})().next();if(location.protocol!="file:"){window.__vite_is_modern_browser=true}
+  </script>
+  <script type="module">
+   !function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();
+  </script>
+  <title>
+   债务上限问题悬而未决，参议院审议特朗普税改法案
+  </title>
+  <!-- HEAD_svelte-1h15i1z_START -->
+  <link as="script" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/DetailLayout-ObvKDk8n.js" rel="modulepreload"/>
+  <!-- HEAD_svelte-1h15i1z_END -->
+  <!-- HEAD_svelte-1om4nug_START -->
+  <link as="script" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/index-DMIkMhJS.js" rel="modulepreload"/>
+  <!-- HEAD_svelte-1om4nug_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_svelte-14k2mxt_START -->
+  <link as="script" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/index-C692mmee.js" rel="modulepreload"/>
+  <!-- HEAD_svelte-14k2mxt_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_svelte-hq8hl6_START -->
+  <link as="script" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/index-CG9upT1N.js" rel="modulepreload"/>
+  <!-- HEAD_svelte-hq8hl6_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_svelte-hq8hl6_START -->
+  <link as="script" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/index-CG9upT1N.js" rel="modulepreload"/>
+  <!-- HEAD_svelte-hq8hl6_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_svelte-hq8hl6_START -->
+  <link as="script" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/index-CG9upT1N.js" rel="modulepreload"/>
+  <!-- HEAD_svelte-hq8hl6_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_svelte-hq8hl6_START -->
+  <link as="script" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/index-CG9upT1N.js" rel="modulepreload"/>
+  <!-- HEAD_svelte-hq8hl6_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_svelte-hq8hl6_START -->
+  <link as="script" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/index-CG9upT1N.js" rel="modulepreload"/>
+  <!-- HEAD_svelte-hq8hl6_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <!-- HEAD_svelte-1qhvle_START -->
+  <link as="script" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/content-CDoH0EtA.js" rel="modulepreload"/>
+  <!-- HEAD_svelte-1qhvle_END -->
+  <meta content="https://wallstreetcn.com/articles/3747745" property="og:url"/>
+  <meta content="债务上限问题悬而未决，参议院审议特朗普税改法案" property="og:title"/>
+  <meta content="https://static.wscn.net/wscn/_static/share.png" property="og:image"/>
+  <meta content="税改法案在众议院勉强通过后，参议院将对其进行大刀阔斧的修改。共和党内部在税改细节和支出削减上存在分歧，导致债务上限提高受阻。民主党则试图剔除法案中的非财政条款，使得立法前景更添变数。" property="og:description"/>
+  <meta content="https://wallstreetcn.com/articles/3747745" name="wscn-share-url"/>
+  <meta content="债务上限问题悬而未决，参议院审议特朗普税改法案" name="wscn-share-title"/>
+  <meta content="税改法案在众议院勉强通过后，参议院将对其进行大刀阔斧的修改。共和党内部在税改细节和支出削减上存在分歧，导致债务上限提高受阻。民主党则试图剔除法案中的非财政条款，使得立法前景更添变数。" name="wscn-share-content"/>
+  <meta content="https://static.wscn.net/wscn/_static/share.png" name="wscn-share-image"/>
+  <link href="https://static.wscn.net/wscn/_static/share.png" rel="wscn-share-image"/>
+  <!-- HEAD_undefined_START -->
+  <!-- HEAD_undefined_END -->
+  <link as="script" crossorigin="" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/index-CT1bjvkd.js" rel="modulepreload"/>
+  <link as="script" crossorigin="" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/openInAppStore-BvScW8f4.js" rel="modulepreload"/>
+  <link as="script" crossorigin="" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/day-DedF0pA2.js" rel="modulepreload"/>
+  <link as="script" crossorigin="" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/index-CvUUNv2p.js" rel="modulepreload"/>
+  <link as="script" crossorigin="" href="https://static.wscn.net/wscn/wallstreetcn.com/assets/IconPlay-DJzhwAqq.js" rel="modulepreload"/>
+ </head>
+ <body class="antialiased" style="overflow: auto;">
+  <div class="pt-9">
+   <header class="flex justify-between items-center h-[48px] px-[15px] fixed top-0 left-0 w-full bg-white z-50">
+    <a aria-label="华尔街见闻" class="flex justify-center items-center" href="/">
+     <svg class="h-[28px]" fill="currentColor" height="1em" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+      <path d="M512 0C229.216 0 0 229.216 0 512s229.216 512 512 512 512-229.216 512-512S794.784 0 512 0" fill="#1478F0">
+      </path>
+      <path d="m466.944 649.6 41.152-102.464 18.4 49.472L432.192 828.8H416.32L246.08 423.136c-11.808-26.208-34.656-46.368-62.72-54.336l-1.6-.448V367.2h216.992v.608l-.192.096c-17.664 11.84-24.48 25.696-24.48 45.056 0 5.664 2.784 14.08 2.784 14.08zm239.648-345.92h135.264v.832l-.864.128c-16.96 3.136-32.576 18.848-43.104 44.576l-1.632 4.16-161.28 424.96h-14.4L548.192 597.76l67.488-151.104 55.2 140.544L752 370.176l.032-.032c11.68-31.616-11.424-65.28-45.12-65.728h-.32zm-21.44-68.576c-1.152 2.304-5.568 12.8-5.568 12.8L538.432 573.44 433.056 310.944c-6.4-18.4-25.184-51.84-64.64-62.816v-.768h248.48v1.216h-.448c-6.784 0-53.856 1.504-53.856 51.296 0 7.168 4.512 24.096 6.304 29.248l18.304 46.24 54.336-132.544c3.936-9.984 2.048-16.256 1.472-18.496-4.416-10.88-17.312-23.68-35.648-26.56v-.448h115.904v.576c-19.584 4.192-29.632 18.944-38.144 37.184" fill="#FFF">
+      </path>
+     </svg>
+     <svg class="h-[17px] ml-1" fill="currentColor" height="1em" viewbox="0 0 88 18" xmlns="http://www.w3.org/2000/svg">
+      <g fill="#333">
+       <path d="m10.285 11.728-.75.725v.818h4.195l.717-1.067 2.496 1.054v.353h-7.41v3.476c0 .548-.55.745-1.32.745H7.186v-4.219H0v-.34h7.186v-2.838zM.02 7.958Q1.982 5.37 3.035 3.391T4.41.043l2.935 1.221-1.025.699-1.016 1.43v6.778c0 .661-.42.903-1.794.903h-.58l.035-5.076C2.434 6.43.693 7.67.11 8.035zm10.605-.412c0 .53.23.746.678.746h2.48q.644 0 .893-.764l.82-2.214h.109l.21 1.481c.024.223.028.824.416 1.144.359.297.482.669.482.96q0 .627-.626 1.019-.625.391-1.946.392h-4.054c-1.259 0-1.814-.758-1.814-2.037V6.842c-.952.327-1.756.569-2.756.725l-.035-.117c1.13-.655 2.791-1.94 2.791-1.94V.103l3.099 1.298-.75.665v2.305c.292-.212 2.141-1.688 2.541-2.171l2.993 1.25-1.231.356c-1.464.94-2.803 1.72-4.304 2.308v1.431zm7.801 8.609s2.478-4.167 3.452-8.32l3.049 1.277L24 9.64c-2.914 4.654-4.87 6.085-5.486 6.593zm.017-6.582q1.42-2.58 2.268-5.03.845-2.45 1.149-4.52l3.415 1.437-1.102.742c-.142.338-.555 1.072-.78 1.474h7.15l.505-1.266 3.298 1.38s-.18.12-1.095.586c-.788.807-1.791 2.1-3.097 3.086l-.09-.06.802-3.395h-7.617a23 23 0 0 1-2.214 3.21 16.2 16.2 0 0 1-2.5 2.43zm9.91-3.158-.64.625v8.371c0 .92-.572 1.762-1.708 2.128-.424.138-.948.222-1.566.274a8 8 0 0 0-.16-.985c-.151-.671-1.019-1.417-1.976-1.417v-.136h2.242c.436 0 .818-.274.818-.975V5.16zm.196 1.4c2.654 1.186 5.09 3.868 5.09 5.487 0 1.672-1.029 1.914-1.567 1.914s-.963-.333-.996-.78c-.294-3.906-1.607-5.218-2.581-6.562zm7.224 2.943c.323-.537 2.624-4.753 3.267-6.546L41.643 5.3l-.78.401a17.6 17.6 0 0 1-1.577 2.065l.748.326-.586.56v8.357q0 .277-.09.424-.09.149-.34.206a5 5 0 0 1-.87.129c-.304.018-.728.06-.728.06v-8.24s-1.276 1.037-1.576 1.247zm.09-5.134c.748-1.12 2.728-5.12 2.81-5.382l2.564 1.076-.788.373c-1.487 1.917-4.156 3.813-4.515 4.032zm9.445 3.242-.557.74v.964h.61l.621-.658 1.851.725-.411.268h-2.67v2.704q.75-.117 1.513-.245t1.514-.285l.036.117a29 29 0 0 1-3.064 1.632c-1.555.71-3.918 1.532-3.918 1.532l-.776-2.24 2.672-.236v-2.981h-2.19v-.335h2.19l.069-2.762zm.186-7.69-.743.692V3.58h.269l.534-.708 1.938.803-.411.24h-2.33V7.14h.393l.54-.721 1.969.814-.395.24h-6.99V7.14h2.46V3.914H40.52V3.58h2.207V.04zm1.91 5.623v-.335h2.472l.624-.91 2.188.916-.449.329h-1.504v8.661c0 1.212-.436 1.705-1.313 2.02-.352.127-.814.196-1.34.263a8 8 0 0 0-.133-.787c-.227-1.009-1.186-1.306-1.646-1.327v-.144h1.722c.624 0 .682-.406.682-.787V6.825zm0-4.543h2.275l.57-.832 2.01.855-.413.312h-4.443z">
+       </path>
+       <path clip-rule="evenodd" d="M66.95 11.25c.3-.08.584-.355.584-.748 0-.394 0-8.217.002-8.218l.73-1.013-2.95-1.248-.639 1.472h-5.65L56.19.305v11.454h.376c.779 0 1.293-.061 1.533-.143a.64.64 0 0 0 .436-.625V1.834h6.644v9.69q.358-.037.851-.107a8 8 0 0 0 .922-.167m-2.193 3.892c-.568 0-.752-.387-.752-.902v-2.87l.763-.74-2.437-1.019c.227-1.167.325-3.194.366-4.041l.008-.167.788-.765-3.08-1.281q.001.058.008.194c.03.653.118 2.553.027 4.064-.123 2.03-.728 3.883-1.862 5.554q-1.701 2.505-5.05 4.55l.051.098c6.4-1.4 8.388-6.88 8.388-6.88v4.05c0 1.308.834 2.182 1.966 2.182h3.889c1.195 0 2.579-.383 2.579-1.632 0-.481-.2-.684-.332-.816l-.018-.018c-.087-.078-.379-.34-.386-1.408l-.108-2.061h-.216L68.627 14l-.009.024c-.103.288-.4 1.119-1.97 1.119z" fill-rule="evenodd">
+       </path>
+       <path d="m75.165 4.249-.663.634v12.005c0 .4-.354.66-.51.687q-.447.099-.965.138-.52.039-.93.039.019-.648.036-1.44c.011-.53.011-13.054 0-13.329zM74.386 0a7.8 7.8 0 0 1 2.49.598c.661.285 1.168.86 1.168 1.51 0 .864-.527 1.48-1.307 1.48-.734 0-1.272-.32-1.272-1.12 0-1.015-.818-1.938-1.116-2.41zm.537 5.031h6.612l.453-.743 2.188.914-.128.164-1.527.019v7.042l.141-.04.322-.782 1.594.668-.165.23-1.894.258v2.44h1.447c.659 0 .894-.397.894-.943V2.232h-6.13v-.334h5.772l.559-1.24 2.605 1.085-.447.943v12.18c0 1.06-.179 1.953-1.6 2.53q-.581.235-1.456.391a7 7 0 0 0-.15-.853c-.33-1.386-1.492-1.52-1.492-1.52v.626c0 .482-.3.855-1.477.855H80.5v-3.897l-5.808.726v-.308l1.447-.184V5.364h-1.216zm3.234 2.563h2.341V5.366h-2.34zm0 2.554h2.341V7.93H78.15zm2.341.335h-2.34v2.48l2.34-.3z">
+       </path>
+      </g>
+     </svg>
+    </a>
+    <div class="flex items-center">
+     <button class="w-[22px] h-[22px] ml-5">
+      <svg aria-label="menu" fill="currentColor" height="1em" viewbox="0 0 23 22" xmlns="http://www.w3.org/2000/svg">
+       <path clip-rule="evenodd" d="M3.25 4.583c0-.506.41-.916.917-.916h14.666a.917.917 0 1 1 0 1.833H4.167a.917.917 0 0 1-.917-.917m0 6.417c0-.506.41-.917.917-.917h14.666a.917.917 0 1 1 0 1.834H4.167A.917.917 0 0 1 3.25 11m.917 5.5a.917.917 0 0 0 0 1.833h14.666a.917.917 0 1 0 0-1.833z" fill="#333" fill-rule="evenodd">
+       </path>
+      </svg>
+     </button>
+    </div>
+   </header>
+   <nav class="fixed z-20 left-0 top-[38px] w-full overflow-auto h-0">
+    <ul class="bg-white z-[999] p-[15px] w-full min-h-full transition-transform duration-[0.2s] ease-[cubic-bezier(0,0,0.58,1)] -translate-x-full">
+     <li class="font-medium text-lg leading-[25px] flex items-center text-[#333] mb-[30px]">
+      <a class="router-link" href="/">
+       首页
+      </a>
+     </li>
+     <li class="font-medium text-lg leading-[25px] flex items-center text-[#333] mb-2.5">
+      <a class="router-link" href="/">
+       资讯
+      </a>
+     </li>
+     <li>
+      <ul class="border-t-[0.5px] border-t-[#E6E6E6] border-solid mb-[30px] pt-[15px] grid grid-cols-[repeat(2,1fr)] gap-5">
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a class="router-link" href="/news/shares">
+         股票
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a class="router-link" href="/news/bonds">
+         债券
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a class="router-link" href="/news/commodities">
+         商品
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a class="router-link" href="/news/forex">
+         外汇
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a class="router-link" href="/news/enterprise">
+         公司
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a class="router-link" href="/news/ai">
+         硬AI
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="font-medium text-lg leading-[25px] flex items-center text-[#333] mb-[30px]">
+      <a class="router-link" href="/live">
+       快讯
+      </a>
+     </li>
+     <li class="font-medium text-lg leading-[25px] flex items-center text-[#333] mb-2.5">
+      <a href="https://wallstreetcn.com/member/buy/gold">
+       会员
+      </a>
+     </li>
+     <li>
+      <ul class="border-t-[0.5px] border-t-[#E6E6E6] border-solid mb-[30px] pt-[15px] grid grid-cols-[repeat(2,1fr)] gap-5">
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a href="https://wallstreetcn.com/member/buy/gold">
+         VIP会员
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a href="https://wallstreetcn.com/member/buy/master_course">
+         大师课
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="font-medium text-lg leading-[25px] flex items-center text-[#333] mb-2.5">
+      <a href="https://wallstreetcn.com/legal/copyright-statement">
+       法律信息
+      </a>
+     </li>
+     <li>
+      <ul class="border-t-[0.5px] border-t-[#E6E6E6] border-solid mb-[30px] pt-[15px] grid grid-cols-[repeat(2,1fr)] gap-5">
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a href="https://wallstreetcn.com/legal/copyright-statement">
+         版权声明
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a href="https://wallstreetcn.com/legal/terms-of-use">
+         用户协议
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a href="https://wallstreetcn.com/legal/subscription-agreement">
+         付费内容订阅协议
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a href="https://wallstreetcn.com/legal/privacy-policy">
+         隐私政策
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="font-medium text-lg leading-[25px] flex items-center text-[#333] mb-2.5">
+      <a href="https://wallstreetcn.com/about-us">
+       华尔街见闻
+      </a>
+     </li>
+     <li>
+      <ul class="border-t-[0.5px] border-t-[#E6E6E6] border-solid mb-[30px] pt-[15px] grid grid-cols-[repeat(2,1fr)] gap-5">
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a href="https://wallstreetcn.com/about-us">
+         关于我们
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a href="https://wallstreetcn.com/about-us#cooper">
+         广告投放
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a href="https://wallstreetcn.com/about-us#copyright">
+         版权和商务合作
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a href="https://wallstreetcn.com/about-us#contract">
+         联系方式
+        </a>
+       </li>
+       <li class="text-[17px] leading-6 text-[#666]">
+        <a href="https://wallstreetcn.com/feedback">
+         意见反馈
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </nav>
+   <article class="p-[15px]">
+    <header>
+     <h1 class="text-[#333] text-[23px] font-semibold leading-[31px] mb-4">
+      债务上限问题悬而未决，参议院审议特朗普税改法案
+     </h1>
+     <div class="mb-4 flex items-center">
+      <div class="text-[#333] text-[13px]">
+       <a class="flex items-center" href="/authors/120000004773">
+        <img alt="" class="border backdrop:border-neutral-100 border-solid rounded-[50%]" height="24" loading="lazy" src="https://wpimg-wscn.awtmt.com/86ca358f-7caa-48af-9cb8-1f7123d1aa2c?imageView2/1/w/24/h/24" srcset="https://wpimg-wscn.awtmt.com/86ca358f-7caa-48af-9cb8-1f7123d1aa2c?imageView2/1/w/48/h/48 2x" width="24"/>
+        <span class="ml-[8px]">
+         张雅琦
+        </span>
+       </a>
+      </div>
+      <time class="text-[#999] text-[13px] ml-[10px]" datetime="2025-05-23T13:44:35.000Z">
+       05/23 21:44
+      </time>
+     </div>
+    </header>
+    <section class="p-3 rounded-[5px] bg-[#f6f6f6] text-[#666] leading-[26px]">
+     税改法案在众议院勉强通过后，参议院将对其进行大刀阔斧的修改。共和党内部在税改细节和支出削减上存在分歧，导致债务上限提高受阻。民主党则试图剔除法案中的非财政条款，使得立法前景更添变数。
+    </section>
+    <section class="_articleBody_v7w04_1 article">
+     <p>
+      随着美国参议院即将启动对特朗普“大漂亮法案”进行漫长修订，美国面临债务违约的风险与日俱增。
+     </p>
+     <p>
+      共和党国会领导人将提高美国法定债务上限的议题捆绑在总统标志性的经济立法中，此举虽为税改法案增添了紧迫性，却也可能使避免违约的重担压在了前方复杂的立法障碍之上。
+     </p>
+     <p>
+      这项税收法案不仅在参议院面临耗时的审议，共和党议员也已明确表示，他们预计在通过过程中会进行广泛修改。
+     </p>
+     <p>
+      分析认为，考虑到众议院周四在共和党内部激烈协商后仅以一票之差勉强通过该法案，参议院的修改可能会在修订后的版本返回众议院批准时引发新的问题。
+     </p>
+     <h2>
+      市场不安：债务违约阴影笼罩
+     </h2>
+     <p>
+      随着美国可能违约的日期日益临近，立法过程中的戏剧性和拖延可能引发市场不安。
+     </p>
+     <p>
+      据媒体报道，财政部长Scott Bessent已向立法者发出警告，如果届时债务上限未能提高或暂停，美国可能在8月耗尽其借款能力。
+     </p>
+     <p>
+      国库券投资者已开始对8月份到期的证券进行操作，其收益率相对于其他期限的债券正在贬值，例如8月21日到期的债券收益率已达到4.34%。
+     </p>
+     <p>
+      然而，华尔街分析师和私人预测机构普遍认为，
+      <strong>
+       美国债务上限的“X日期”（即耗尽借款能力的最后期限）将在8月下旬至10月中旬之间。
+      </strong>
+      一旦美国耗尽借款能力，持有即将到期债务的投资者将首当其冲受到影响，因为政府将无法出售新证券以偿还持有人。
+     </p>
+     <h2>
+      共和党内部的艰难平衡
+     </h2>
+     <p>
+      <strong>
+       除了特朗普“大漂亮法案”之外，共和党没有提高债务上限的现成备选方案。
+      </strong>
+      他们需要通过在立法中纳入社会保障网支出削减和加强边境执法资金等条款，以说服从未投票支持债务增加的极端保守派通过法案。
+     </p>
+     <p>
+      参议院共和党领袖John Thune表示，在7月4日前通过税收法案的目标因需要找到多数票支持而变得困难：
+     </p>
+     <blockquote>
+      <p>
+       "显然这是目标和愿望。我们会看看情况如何。需要什么才能获得51票？
+      </p>
+      <p>
+       他们给我们提供了一个很好的产品来操作，但我们有参议员想要编写我们自己的法案。"
+      </p>
+     </blockquote>
+     <p>
+      Thune将不得不在修改众议院的4万亿美元减税方案，以在参议院获得通过时取得微妙的平衡。
+     </p>
+     <h2>
+      跨党派阻力增大风险
+     </h2>
+     <p>
+      <strong>
+       一些参议员反对众议院法案中迅速终止清洁能源税收减免的条款，
+      </strong>
+      因为这种倒退不仅会损害可再生能源公司，还会影响支持当前项目的银行。阿拉斯加共和党参议员Lisa Murkowski表示：
+     </p>
+     <blockquote>
+      <p>
+       “我认为我们将寻求如何可能更现实地逐步淘汰清洁电力信贷。”
+      </p>
+     </blockquote>
+     <p>
+      参议院正在利用预算手段，允许比众议院法案多出1.3万亿美元的减税额度。
+      <strong>
+       这可能会激怒那些已经对法案中额外债务负担感到不安的众议院财政鹰派。
+      </strong>
+     </p>
+     <p>
+      其他参议员，如西弗吉尼亚州的Jim Justice，则希望对小费和加班进行永久性减税（目前法案中仅持续四年），同时缩减可能损害其州预算的医疗补助提供商税收变化。密苏里州参议员Josh Hawley表示：
+     </p>
+     <blockquote>
+      <p>
+       “我肯定很多东西会改变，我知道我的许多同事对要改变的事情有很多想法。”
+      </p>
+     </blockquote>
+     <p>
+      根据报道，
+      <strong>
+       民主党人在仅限共和党的预算法案程序中基本上被边缘化。
+      </strong>
+      尽管如此，他们将能够利用参议院规则从法案中删除非财政条款，这些条款可能包括众议院法案中阻止州对人工智能监管等条款。
+     </p>
+     <p>
+      这场立法博弈的结果将直接影响美国是否能够避免历史性的债务违约，投资者需要密切关注未来几个月的政治动态发展。
+     </p>
+     <div style="color: rgb(102, 102, 102); margin-bottom: 15px;">
+      风险提示及免责条款
+     </div>
+     <div style="font-size: 12px; font-family: 黑体; color: rgb(102, 102, 102); line-height: 20px;">
+      市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。
+     </div>
+    </section>
+   </article>
+   <div class="pb-[100px]">
+    <div class="text-[#333] text-[15px] font-semibold px-[15px] py-3 border-t-[5px] border-t-[#f6f6f6] border-solid" data-svelte-h="svelte-17j7h4s">
+     相关文章
+    </div>
+    <ul class="px-[15px]">
+     <li class="py-3 border-b-[#E6E6E6] border-b-[0.5px] border-solid">
+      <a class="flex justify-between" href="/articles/3747717">
+       <section class="flex flex-col justify-between">
+        <h2 class="text-zinc-800 text-[16px] font-medium text-overflow-3">
+         <span>
+          关于美国财政：市场在定价什么？
+         </span>
+        </h2>
+        <div class="flex items-center mt-[10px]">
+         <span class="text-[#999] text-[11px]">
+          招商证券张静静团队
+         </span>
+         <time class="text-[#999] text-[11px] ml-[10px]" datetime="2025-05-23T07:30:30.000Z">
+          05/23 15:30
+         </time>
+        </div>
+       </section>
+       <img alt="" class="border backdrop:border-neutral-100 border-solid ml-2.5 w-[110px] h-[82px] rounded-[5px]" height="82" loading="lazy" src="https://wpimg-wscn.awtmt.com/07b8a961-60e5-413b-bd14-02396e18d1d8.png?imageView2/1/w/110/h/82" srcset="https://wpimg-wscn.awtmt.com/07b8a961-60e5-413b-bd14-02396e18d1d8.png?imageView2/1/w/220/h/164 2x" width="110"/>
+      </a>
+     </li>
+     <li class="py-3 border-b-[#E6E6E6] border-b-[0.5px] border-solid">
+      <a class="flex justify-between" href="/articles/3747675">
+       <section class="flex flex-col justify-between">
+        <h2 class="text-zinc-800 text-[16px] font-medium text-overflow-3">
+         <span>
+          特朗普减税法案削减税收抵扣，美国光伏股暴跌，核电股上涨
+         </span>
+        </h2>
+        <div class="flex items-center mt-[10px]">
+         <span class="text-[#999] text-[11px]">
+          鲍奕龙
+         </span>
+         <time class="text-[#999] text-[11px] ml-[10px]" datetime="2025-05-23T00:37:04.000Z">
+          05/23 08:37
+         </time>
+        </div>
+       </section>
+       <img alt="" class="border backdrop:border-neutral-100 border-solid ml-2.5 w-[110px] h-[82px] rounded-[5px]" height="82" loading="lazy" src="https://wpimg-wscn.awtmt.com/2cc68a00-a428-4e58-aee9-54ec0cf4cc87.png?imageView2/1/w/110/h/82" srcset="https://wpimg-wscn.awtmt.com/2cc68a00-a428-4e58-aee9-54ec0cf4cc87.png?imageView2/1/w/220/h/164 2x" width="110"/>
+      </a>
+     </li>
+     <li class="py-3 border-b-[#E6E6E6] border-b-[0.5px] border-solid">
+      <a class="flex justify-between" href="/articles/3747670">
+       <section class="flex flex-col justify-between">
+        <h2 class="text-zinc-800 text-[16px] font-medium text-overflow-3">
+         <span>
+          一票之差！特朗普减税案在众院涉险过关，参院还有难关得过
+         </span>
+        </h2>
+        <div class="flex items-center mt-[10px]">
+         <span class="text-[#999] text-[11px]">
+          李丹
+         </span>
+         <time class="text-[#999] text-[11px] ml-[10px]" datetime="2025-05-22T21:16:22.000Z">
+          05/23 05:16
+         </time>
+        </div>
+       </section>
+       <img alt="" class="border backdrop:border-neutral-100 border-solid ml-2.5 w-[110px] h-[82px] rounded-[5px]" height="82" loading="lazy" src="https://wpimg-wscn.awtmt.com/9a272f89-44f9-4450-ad2d-ea45ae6ccacf.jpeg?imageView2/1/w/110/h/82" srcset="https://wpimg-wscn.awtmt.com/9a272f89-44f9-4450-ad2d-ea45ae6ccacf.jpeg?imageView2/1/w/220/h/164 2x" width="110"/>
+      </a>
+     </li>
+     <li class="py-3 border-b-[#E6E6E6] border-b-[0.5px] border-solid">
+      <a class="flex justify-between" href="/articles/3747350">
+       <section class="flex flex-col justify-between">
+        <h2 class="text-zinc-800 text-[16px] font-medium text-overflow-3">
+         <span>
+          深夜反转，特朗普减税法案通过众议院预算委员会投票
+         </span>
+        </h2>
+        <div class="flex items-center mt-[10px]">
+         <span class="text-[#999] text-[11px]">
+          龙玥
+         </span>
+         <time class="text-[#999] text-[11px] ml-[10px]" datetime="2025-05-19T03:20:45.000Z">
+          05/19 11:20
+         </time>
+        </div>
+       </section>
+       <img alt="" class="border backdrop:border-neutral-100 border-solid ml-2.5 w-[110px] h-[82px] rounded-[5px]" height="82" loading="lazy" src="https://wpimg-wscn.awtmt.com/253e3706-212c-4014-a4af-f32912f370f9.png?imageView2/1/w/110/h/82" srcset="https://wpimg-wscn.awtmt.com/253e3706-212c-4014-a4af-f32912f370f9.png?imageView2/1/w/220/h/164 2x" width="110"/>
+      </a>
+     </li>
+     <li class="py-3 border-b-[#E6E6E6] border-b-[0.5px] border-solid">
+      <a class="flex justify-between" href="/articles/3746737">
+       <section class="flex flex-col justify-between">
+        <h2 class="text-zinc-800 text-[16px] font-medium text-overflow-3">
+         <span>
+          封杀特朗普炒币条款引发僵局！稳定币监管法案胎死腹中，财长怒喷
+         </span>
+        </h2>
+        <div class="flex items-center mt-[10px]">
+         <span class="text-[#999] text-[11px]">
+          赵雨荷
+         </span>
+         <time class="text-[#999] text-[11px] ml-[10px]" datetime="2025-05-08T20:46:48.000Z">
+          05/09 04:46
+         </time>
+        </div>
+       </section>
+       <img alt="" class="border backdrop:border-neutral-100 border-solid ml-2.5 w-[110px] h-[82px] rounded-[5px]" height="82" loading="lazy" src="https://wpimg-wscn.awtmt.com/e43594a2-fb7a-4194-b688-e1b638473ee3.jpeg?imageView2/1/w/110/h/82" srcset="https://wpimg-wscn.awtmt.com/e43594a2-fb7a-4194-b688-e1b638473ee3.jpeg?imageView2/1/w/220/h/164 2x" width="110"/>
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <a class="fixed z-50 -translate-x-2/4 left-2/4 bottom-[0]" href="https://oia.wallstreetcn.com/articles/3747745" style="">
+   <button aria-label="打开APP阅读" class="flex justify-center items-center absolute top-[15px] left-1/2 -translate-x-1/2 w-[159px] h-[47px] blur-lg rounded-[50px] bg-[rgba(23,129,255,0.6)]">
+   </button>
+   <button class="flex justify-center items-center w-[180px] h-[54px] px-[25px] py-[15px] rounded-[30px] bg-[#1478f0] relative mb-[30px]" data-svelte-h="svelte-boudlr" title="打开APP阅读">
+    <img alt="华尔街见闻" class="w-5" height="20" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAARySURBVHgB5ZuBedsqEMfx+zqAR9AGSTagG/htoA2qN0HUCZo3gdIJmk6AO0HSCXAnSDb4FyyUYgIcks6y8vX3fZfYEidxCO4OjDbiTADYmn/SSGXkysi1ka377nNw8mLkp5G9kafNZvMi1o410sitEYX5KCONkUqsDVMpCR4jc8ZLcWkWMDREG9mJpTE3rRY2NKTDUl3d3OiTkWdcHm2kFucCvUP6gvXxZYwdm5JC6EOMEn1oWSNPRv41oexAFSQNRj9WrLGVWDcHIx8po7MGvyNjBw5GbnJJyz8izzfxfoy1VEaUG4JRkgY7Z7DWMZvD1vk2dTLapdG7+04szyFybOtkLP+Zrn1HlkKfVGhcho6xLjZXqEoM7nBZGsa6qNC+D4GxNk+txTxenIxl6Lovri4VQ11sri9N195Hz4KvK9+W1ginebn2jnfgQaVuLMFLkdPD6SSkO0PjWyR1Yy6aAoN9KnesDo5rQiiUiHSrc2A95bbQYEU0/m1Ed4vyB7X1FRucj4YwWLlyO/f9OnOtOtDtUE4bu+k5UITBO5Q7qwev3NheeazHB/xZXaQYG26GMJMNDeb4gzn/aoQoD0XFkcAhj7ZinHcummy71vdXRb4V6tXE/Wvv+lPYWeUW41AFFb8LdEjn5fR05r56RMOkaOxs6UqMw/aIVozDGks5LynyU9G993lsdx64muqwnnNXRXyYUDodcc8qc+1SHudkNDvCABXRkYmyw5hMrYaqEQ2TQwtMpyTcFOmgXw3VSPuTXdAwk5ljsEVmDLZZUOyJXUfKavSOKKbD4axeoda0KJLd2i2k/U/poA81lZG90/kalP/sfZ7qrE5uOIdsuEH/xLI66Me6P0sKnVKVOD4JjmlYSzSoiug07twwJmVCx2+IDvM5Oq1HzEMTBseejPKM0BGdYazKoGHmouzF7jEfSRjtN6qdmdluvXP/60h5OxQeve8teHjgmhpSIWqo8HH8ok89n5HxATgd5xo8tKl4OYUqY/AQbjr3fejm5DIQY/0s0oalveChTp3wws3n4NQvQfNJ8PF0/AueBQAyRHmfu0EnVzvwLj0dh92QePwQ87EG1amTwy96OJ3k264uRZr5icYfvr9+QjxBmNyKOfA2PVSZshp8VOHFFXiQhME6orMtaJg5qFhFWFI3ZJZzkPa4baSsAh8yVSEFHrYjr/8clON0VulMEHxPuY1cmzJCemU78JHfyAamEBW5bkfo+KsaGjzQv2/h7RLrVMJ5ry7QsdGCy1lplO7WA3N+jXIjFPiebi3GgLdry1OQ7loKy3KXsovap2WnaHN28tyLPotbcoOM3Vx+kzpJGWzDizW6Eu+DgyB242UX8Vz++1HEtxOtjYMo2HpIrlq6C1ijn8R6sXW7KdlcOgrwODJubJ2mbFwrNtqGGI3LY3OFRiwB+uTkHpdD4RJvu8BtV8ByKPwlb7eoVRgagr6rN+B7UasFs0MqeudhCq6iNkuTot9lMLyGVwVFD6LfLGNDy0/3fX+uV/F+Aw9RZTJKNsjQAAAAAElFTkSuQmCC" width="20"/>
+    <span class="text-white text-[17px] font-medium ml-2 whitespace-nowrap">
+     打开APP阅读
+    </span>
+   </button>
+  </a>
+ </body>
+</html>
