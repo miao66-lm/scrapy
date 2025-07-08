@@ -54,7 +54,7 @@ def process_words(text):
     # 副词(d) - 特别是程度副词（如：非常、极其）
     # 否定词(neg) - （如：不、没、非）
     # 情感动词(v) - （如：喜欢、讨厌、支持）
-    flag_list = ['n','vn','an','nz','ns','nr','nt']
+    flag_list = ['n','vn','ns','nr','nt']
     word_list = []
     # jieba分词
     seg_list = psg.cut(text)
@@ -70,7 +70,7 @@ def process_words(text):
     # 3. 关键词提取（TF-IDF）tf-idf=词频*逆文档频率，通俗易懂的意思就是在本文出现频率多但是在别的文章出现频率少
 def process_keywords(text):
     keywords = jieba.analyse.extract_tags(
-        text, topK=5, withWeight=False, allowPOS=('n', 'vn', 'ns','nr','nt','nz')  # 保留名词、动名词、地名、人名,机构名
+        text, topK=5, withWeight=False, allowPOS=('n', 'vn', 'ns','nr','nt')  # 保留名词、动名词、地名、人名,机构名
     )
     return keywords
 
@@ -125,7 +125,7 @@ def main():
     #  写入CSV文件
     df.to_csv(f'financy_nlp_{today}.csv', index=False, encoding='utf-8-sig')
 
-    print(f"处理完成！已保存到 processed_data.csv，共 {len(df)} 条记录")
+    print(f"处理完成！已保存到 financy_nlp_{today}.csv，共 {len(df)} 条记录")
 
     # print (df.head())
     # print (df.info())

@@ -62,7 +62,7 @@ class ThsFinanceSpider(scrapy.Spider):
         item["content"] = content
         item['update_time'] = dt
         item['news_source'] = source
-
+        time.sleep(0.5)
         # print (item)
         yield item
 

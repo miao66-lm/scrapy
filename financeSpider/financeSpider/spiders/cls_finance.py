@@ -30,7 +30,7 @@ class ClsFinanceSpider(scrapy.Spider):
             item['link'] = "https://www.cls.cn" + t.a['href']
             # print(item['link'] )
             # print (item['title'])
-            time.sleep(1)
+            time.sleep(0.5)
             yield scrapy.Request(url=item['link'], meta={"item": item}, callback=self.parse1)
 
     def parse1(self, response):
@@ -54,7 +54,7 @@ class ClsFinanceSpider(scrapy.Spider):
         item["content"] = content
         item['update_time']=dt
         item['news_source'] =source
-
+        time.sleep(0.5)
         #
         # print  (item["content"] +"\t"+item['update_time'])
         yield item

@@ -148,6 +148,16 @@ class SeleniumMiddleware:
                     try:
                         # 等待“加载更多”按钮出现
                         wait = WebDriverWait(driver, 10)
+
+                        # 有个vip页面遮挡，尝试关闭弹窗（根据实际页面调整选择器）
+                        try:
+                            close_btn = WebDriverWait(driver, 10).until(
+                                EC.element_to_be_clickable((By.CLASS_NAME, "vip-article-popup-close"))  # 示例关闭按钮
+                            )
+                            close_btn.click()
+                        except:
+                            print("未找到弹窗关闭按钮，尝试其他方案")
+
                         load_more_button = wait.until(EC.presence_of_element_located(
                             (By.XPATH, "//div[contains(@class, 'more-button') and contains(text(), '加载更多')]")))
 
@@ -158,6 +168,7 @@ class SeleniumMiddleware:
                         else:
                             print ("没有加载按钮")
                             break
+
 
                         # 强制等待动态内容加载（根据网络情况调整）
                         time.sleep(3)

@@ -46,7 +46,8 @@ DEFAULT_REQUEST_HEADERS = {
     'Content-Type': 'application/json; charset=UTF-8',#POST请求需要这个
     'connection': 'keep-alive',
     'cookie':'qgqp_b_id=c1797999ea697cca0b8cdb301946154d; fullscreengg=1; fullscreengg2=1; st_si=08362192258136; st_asi=delete; st_pvi=17251250121320; st_sp=2025-05-11%2016%3A41%3A43; st_inirUrl=https%3A%2F%2Ffinance.eastmoney.com%2Fa%2Fccjdd_4.html; st_sn=43; st_psi=20250511235833627-113104312931-9957797338',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    # 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko'
 }
 
 

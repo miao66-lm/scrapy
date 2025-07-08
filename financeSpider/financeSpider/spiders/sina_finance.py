@@ -60,13 +60,22 @@ class SinaFinanceSpider(scrapy.Spider):
             print(f"{e}:文本解析报错")
 
         # print (source)
-        time.sleep(0.5)
+        # time.sleep(0.5)
 
+        # 去掉无用内容
+        pattern = r'(' \
+                  r'风险提示：[^。；\n]*[。；\n]*|' \
+                  r'来源：[^。；\n]*[。；\n]*|' \
+                  r'海量资讯、精准解读，尽在新浪财经APP[.*]*|' \
+                  r'责任编辑：[^。；\n]*[。；\n]*|' \
+                  r'新浪声明：[^。；\n]*[。；\n]*|' \
+                  r'[（]总台记者[\s：]+[^。；\n]*|' \
+                  r')'
+        finance_item["content"]=re.sub(pattern,"",content)
         # 时间格式转换
-        finance_item["content"]=content.replace("海量资讯、精准解读，尽在新浪财经APP","")
         finance_item["update_time"] = re.sub(r"(\d+)年(\d+)月(\d+)日", r"\1-\2-\3", dt)
         finance_item['news_source'] = source
-
+        time.sleep(0.5)
         # print (finance_item)
 
         yield finance_item

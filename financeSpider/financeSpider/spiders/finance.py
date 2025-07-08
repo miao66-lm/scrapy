@@ -5,6 +5,14 @@ from financeSpider.items import FinancespiderItem
 import time
 import re
 
+# scrapy crawl wal_finance
+# scrapy crawl cls_finance
+# scrapy crawl eastmoney_finance
+# scrapy crawl ths_finance
+# scrapy crawl sina_finance
+# ;
+
+
 # 爬取东方财富网首页财经导读
 class FinanceSpider(scrapy.Spider):
     name = "finance"

@@ -7,8 +7,6 @@ import re
 from urllib.parse import urlparse
 from datetime import datetime
 
-from sphinx.cmd.quickstart import nonempty
-
 
 # 爬取华尔街见闻的最新资讯 https://wallstreetcn.com/news/global 通过F12开发者工具的network发现有接口文件随着页面加载不断变化https://api-one-wscn.awtmt.com/apiv1/content/information-flow?channel=global&accept=article&cursor=&limit=20&action=upglide
 # 然后通过分析发现把limit到100以后能显示接口的全部数据https://api-one-wscn.awtmt.com/apiv1/content/information-flow?channel=global&accept=article&limit=200
@@ -67,5 +65,6 @@ class WalFinanceSpider(scrapy.Spider):
         except KeyError as e:
             print(f"json解析出错：{e}")
         # print(finance_item)
+        time.sleep(0.5)
         yield finance_item
 

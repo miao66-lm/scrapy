@@ -17,8 +17,8 @@ class ClsDbSpider(Spider):
     start_urls = ["https://www.cls.cn/"]
 
     # 设置爬取数据的天数，以及开始日期（自己调整）
-    daytime=3
-    start_date = "2025-06-14"
+    daytime=120
+    start_date = "2024-11-03"
     # 当前日期转换为datetime对象
     current_dt = datetime.strptime(start_date, "%Y-%m-%d")
     # 初始化lastTime  2025-06-05 23:59:59

@@ -1,6 +1,5 @@
 import scrapy
 from financeSpider.items import FinancespiderItem
-import requests
 import json
 import random
 import time
@@ -54,18 +53,16 @@ class EastmoneyFinanceSpider(scrapy.Spider):
 
         soup = BeautifulSoup(response.text, 'lxml')
         print("正在抓取内容")
-        # 文章元素解析异常处理
-        try:
-            finance_item["content"] = soup.find("div", id="ContentBody").text.strip()
-            # finance_item["content"] = soup.select_one('div[id*="ContentBody"]').text.strip()
 
-        except AttributeError as e:
-            print(f"e:获取文章文本内容解析报错")
-            finance_item["content"] = 'none'
-        # 解析异常处理
+        # 先给变量赋值以免数据丢失
+        content="none"
         dt="none"
         source="none"
+        # 文章元素解析异常处理
         try:
+            content = soup.find("div", id="ContentBody").text.strip()
+            # finance_item["content"] = soup.select_one('div[id*="ContentBody"]').text.strip()
+
             if 'fund.eastmoney.com' in response.url:
                 dt = soup.find("div", class_=" item").text.strip()
                 source= soup.find("div", class_="source").text.strip()
@@ -79,7 +76,8 @@ class EastmoneyFinanceSpider(scrapy.Spider):
 
         # print (source)
         time.sleep(0.5)
-
+        # 去除无用信息 如（文章来源：每日经济新闻）
+        finance_item["content"]=re.sub(r"[\(（]文章来源[^)）]*[\)）]", "", content)
         # 时间格式转换
         finance_item["update_time"] = re.sub(r"(\d+)年(\d+)月(\d+)日", r"\1-\2-\3", dt)
         match = re.search(r'来源：\s*(\S+)', source)
